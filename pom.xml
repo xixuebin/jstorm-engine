@@ -123,6 +123,7 @@
     <modules>
         <module>topology-view-statistics</module>
         <module>jstorm-engine-core</module>
+        <module>topology-view-paid-statistics</module>
     </modules>
 
 
