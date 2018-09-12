@@ -1,0 +1,11 @@
+*.git
+*.project
+*.classpath
+*.prefs
+*.bat
+target
+/bin
+.idea
+*.iml
+jstorm-local/
+dependency-reduced-pom.xml
